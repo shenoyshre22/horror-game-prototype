@@ -1,0 +1,5 @@
+<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <rect fill="#1a1a1a" height="128" width="128"/>
+  <circle cx="64" cy="64" r="50" fill="#ff0000" opacity="0.3"/>
+  <text x="64" y="75" font-family="Arial" font-size="60" fill="#ff0000" text-anchor="middle">👻</text>
+</svg>
