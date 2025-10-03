@@ -1,22 +1,22 @@
-# Horror School Survival 🎮👻
+# Horror School Survival 
 
 A multiplayer survival horror game prototype inspired by SmashKarts and Short Creepy Stories (Roblox), set in an abandoned school. Players must survive ghoul attacks while collecting weapons across multiple floors in a PES-inspired school building.
 
-## 🎯 Game Concept
+##  Game Concept
 
 **Genre**: Multiplayer Survival Horror  
 **Platform**: PC (Godot Engine 4.2+)  
 **Players**: 2-8 (Multiplayer)  
 **Objective**: Be the last player standing by surviving ghoul attacks and managing your 5 lives
 
-## ✨ Key Features
+##  Key Features
 
-### 🏫 Multi-Floor Abandoned School
+###  Multi-Floor Abandoned School
 - **PES-Inspired Architecture**: Realistic school layout based on Pune Educational Society schools
 - **5 Distinct Floors**: Ground floor, 1st, 2nd, 3rd floors, and basement
 - **Varied Environments**: Classrooms, laboratories, library, gymnasium, cafeteria, and dark basement areas
 
-### ⚔️ Progressive Weapon System
+###  Progressive Weapon System
 - **Floor-Based Weapon Tiers**: Better weapons on higher floors
   - **Ground Floor**: Basic melee (pipes, bats, chairs)
   - **1st Floor**: Upgraded melee + throwables
@@ -25,13 +25,13 @@ A multiplayer survival horror game prototype inspired by SmashKarts and Short Cr
   - **Basement**: Legendary weapons (holy water launcher, chainsaw)
 - **Resource Management**: Limited ammo and weapon durability
 
-### 💡 Dynamic Lighting System
+###  Dynamic Lighting System
 - **Random Blackouts**: Power cuts plunge areas into complete darkness
 - **Torch/Flashlight**: Battery-powered personal lighting (toggle with 'F')
 - **Battery Management**: Find batteries throughout the school
 - **Strategic Lighting**: Light attracts ghouls but provides safety
 
-### 👻 Ghoul Enemy System
+###  Ghoul Enemy System
 - **Multiple Ghoul Types**:
   - **Wanderers**: Slow patrol enemies
   - **Stalkers**: Invisible in darkness, ambush players
@@ -161,7 +161,7 @@ This project is a prototype for educational and development purposes.
 
 - **SmashKarts**: Multiplayer competition and fast-paced action
 - **Short Creepy Stories (Roblox)**: Horror atmosphere and narrative elements
-- **PES Schools**: Architectural inspiration for the school setting
+- **PES University**: Architectural inspiration for the school setting
 
 ## 📧 Contact
 
