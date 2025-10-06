@@ -12,7 +12,7 @@ A multiplayer survival horror game prototype inspired by SmashKarts and Short Cr
 ##  Key Features
 
 ###  Multi-Floor Abandoned School
-- **PES-Inspired Architecture**: Realistic school layout based on Pune Educational Society schools
+- **PES-Inspired Architecture**: Realistic school layout based on PESU
 - **5 Distinct Floors**: Ground floor, 1st, 2nd, 3rd floors, and basement
 - **Varied Environments**: Classrooms, laboratories, library, gymnasium, cafeteria, and dark basement areas
 
